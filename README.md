@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 ## 👋 Hi, I'm Sakshi Verma
 **Business Analyst | Finance & Operations Workflows, Process Automation & Data Analytics**
 
-I model business processes, build or configure the systems that run them, and measure the result.
+I model business processes, engineer data pipelines, build or configure the systems that run them, and measure the result.
 
 - **Let's Connect:** [LinkedIn](https://linkedin.com/in/sv468) | [Kaggle](https://www.kaggle.com/sv1802)

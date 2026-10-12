@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Hi, I'm Sakshi Verma
-**Business Analyst | Finance & Operations Workflows, Process Automation & Data Analytics**
+**Product Engineer | Finance & Operations Workflows, Process Automation & Data Analytics**
 
 I model business processes, engineer data pipelines, build or configure the systems that run them, and measure the result.
 
